@@ -33,6 +33,10 @@ body {
 	line-height: 1;
 }
 
+#logo {
+	border-radius: 50%;
+  }
+
 ol, ul {
 	list-style: none;
 }
